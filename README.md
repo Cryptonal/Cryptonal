@@ -21,7 +21,7 @@ Microservice & micro-frontend architectures
 Embedded Linux systems (Yocto, Docker, Grafana)
 AI-based audio classification (COVID-19 detection)
 Data mining and visualization (Twitter analytics)
-📍 Based in Germany | 🌐 LinkedIn | 💻 GitHub
+📍 Based in Germany | 💻 GitHub
 
 
 ## 🌐 Socials:
