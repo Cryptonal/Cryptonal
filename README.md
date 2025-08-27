@@ -1,6 +1,27 @@
 # 💫 About Me:
-🔭 I’m currently working on a remote centralized portal to perform lab tests remotely using Javascript, Typescript, HTML/CSS, C# .Net, Tailwind CSS.<br>👯 I’m looking to collaborate on more open source projects in Javascript and C#.<br>🌱 I’m currently learning Typescript, docker and CI/CD pipelines.<br>⚡ Fun fact about me. I can center a div and reverse a linked list. 
-Reach me at: hammad.tahir95@gmail.com
+🔭 Hi, I'm Hammad Tahir, a Full-Stack Developer with a strong focus on Angular, TypeScript, and .NET WebAPI. I specialize in building scalable, modular, and responsive web applications, with hands-on experience in enterprise-level e-commerce platforms, embedded systems, and cloud-native architectures.
+
+🔧 Tech Stack Highlights
+
+Frontend: Angular, RxJS, Angular Material, Tailwind CSS, ExtJS
+Backend: .NET WebAPI, NestJS, Express
+DevOps: Docker, Git, CI/CD, Linux
+Databases: SQL, NoSQL
+Testing: MSTest, automated testing
+🎓 Education
+
+M.Sc. in Computer and Systems Engineering – TU Ilmenau
+B.Sc. in Software Engineering – COMSATS University Islamabad
+📌 Current Role
+Working Student – Angular Frontend Developer at Intershop Communications AG, contributing to enterprise-scale e-commerce solutions.
+
+💡 Projects & Interests
+
+Microservice & micro-frontend architectures
+Embedded Linux systems (Yocto, Docker, Grafana)
+AI-based audio classification (COVID-19 detection)
+Data mining and visualization (Twitter analytics)
+📍 Based in Germany | 🌐 LinkedIn | 💻 GitHub
 
 
 ## 🌐 Socials:
