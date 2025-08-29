@@ -10,8 +10,8 @@ Databases: SQL, NoSQL
 Testing: MSTest, automated testing
 🎓 Education
 
-M.Sc. in Computer and Systems Engineering – TU Ilmenau
-B.Sc. in Software Engineering – COMSATS University Islamabad
+M.Sc. in Computer and Systems Engineering from TU Ilmenau <br />
+B.Sc. in Software Engineering from COMSATS University Islamabad <br />
 📌 Current Role
 Working Student – Angular Frontend Developer at Intershop Communications AG, contributing to enterprise-scale e-commerce solutions.
 
