@@ -19,7 +19,7 @@ Working Student – Angular Frontend Developer at Intershop Communications AG, c
 
 Embedded Linux systems (Yocto, Docker, Grafana)
 Audio classification (COVID-19 detection)
-Data mining and visualization (Twitter analytics)
+Data mining and visualization (Twitter analytics) <br />
 📍 Based in Germany
 
 
