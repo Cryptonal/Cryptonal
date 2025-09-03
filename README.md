@@ -3,25 +3,24 @@
 
 🔧 Tech Stack Highlights
 
-Frontend: Angular, RxJS, Angular Material, Tailwind CSS, ExtJS
+Frontend: Angular, RxJS, Angular Material, HTML and CSS Tailwind CSS, ExtJS
 Backend: .NET WebAPI, NestJS, Express
 DevOps: Docker, Git, CI/CD, Linux
 Databases: SQL, NoSQL
 Testing: MSTest, automated testing
 🎓 Education
 
-M.Sc. in Computer and Systems Engineering from TU Ilmenau <br />
-B.Sc. in Software Engineering from COMSATS University Islamabad <br />
+M.Sc. in Computer and Systems Engineering - TU Ilmenau <br />
+B.Sc. in Software Engineering - COMSATS University Islamabad <br />
 📌 Current Role
-Working Student – Angular Frontend Developer at Intershop Communications AG, contributing to enterprise-scale e-commerce solutions.
+Working Student – Angular Frontend Developer at Intershop Communications AG, contributing to enterprise-scale e-commerce PWA and SPA solutions.
 
 💡 Projects & Interests
 
-Microservice & micro-frontend architectures
 Embedded Linux systems (Yocto, Docker, Grafana)
-AI-based audio classification (COVID-19 detection)
+Audio classification (COVID-19 detection)
 Data mining and visualization (Twitter analytics)
-📍 Based in Germany | 💻 GitHub
+📍 Based in Germany
 
 
 ## 🌐 Socials:
